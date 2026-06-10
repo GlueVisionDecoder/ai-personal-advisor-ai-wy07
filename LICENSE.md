@@ -1,4 +1,4 @@
-# 
+# Léger AI Meeting Notes Summarizer plugins. Avec IA de bord et intégration de chatbot — optimisé pour des performances maximales.
 
 
 
